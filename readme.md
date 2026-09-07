@@ -2,7 +2,7 @@
 
 **Integrantes:**
 * José Cerritos EE22004
-* Wilian Salinas SV
+* Wilian Salinas SV99004
 
 **Repositorio:** Guia1_POO_JW
 
